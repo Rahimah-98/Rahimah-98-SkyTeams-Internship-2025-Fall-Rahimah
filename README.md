@@ -9,7 +9,7 @@ Each week folder contains:
 
 - Solution files for each question
 - Corresponding test files
-- A weekly README.md summarizing your learning
+- A weekly README.md summarizing my learning
 
 ## Week 1 – Fundamentals, Testing, and GitHub Basics
 
