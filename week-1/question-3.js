@@ -1,0 +1,6 @@
+// Sum all numbers in a list or array
+function sumOfNums(arr) {
+  return arr.reduce((acc, curr) => acc + curr, 0);
+}
+
+console.log(sumOfNums([2, 3, 4, 5])); // 14
