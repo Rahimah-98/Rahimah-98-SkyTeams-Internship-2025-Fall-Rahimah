@@ -17,5 +17,5 @@ function trafficLight(color) {
 }
 
 console.log(trafficLight('Red')); //Stop
-console.log(trafficLight('Yellow')); //Yellow
-console.log(trafficLight('Green')); //Caution
+console.log(trafficLight('Yellow')); //Caution
+console.log(trafficLight('Green')); //Go

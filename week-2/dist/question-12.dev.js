@@ -19,7 +19,7 @@ function trafficLight(color) {
 
 console.log(trafficLight('Red')); //Stop
 
-console.log(trafficLight('Yellow')); //Yellow
+console.log(trafficLight('Yellow')); //Caution
 
-console.log(trafficLight('Green')); //Caution
+console.log(trafficLight('Green')); //Go
 //# sourceMappingURL=question-12.dev.js.map
