@@ -62,3 +62,40 @@ Each week folder contains:
   25. LCM of two numbers
 
   **Each task includes a description, input, and expected output.**
+
+  ## Week 3 – JavaScript Logic & Problem-Solving Challenges
+
+  This week focus on strengthening core programming logic through 30 hands-on challenges covering: strings, numbers, arrays, loops, recursion, and pattern generation. By solving problems like prime checking, factorials, Pascal’s triangle, array operations, and binary conversion, I improved my algorithmic thinking, debugging skills, and ability to write clear, efficient JavaScript code.
+
+  **Exercises:**
+
+  1. Count vowels in a String
+  2. Reverse a number
+  3. Sum of digits of a number
+  4. Display all factors of a number
+  5. Find the largest element in an array
+  6. Find the smallest element in an array
+  7. Sum of all elements in an array
+  8. Check if an array contains a specific element
+  9. Count occurrences of an element in an array
+  10. Check whether a number is prime
+  11. Generate all prime numbers up to N
+  12. Check for palindrome number
+  13. Power of a number (without built-in function)
+  14. Find factorial of a number
+  15. Check for Armstrong number
+  16. Fibonacci sequence
+  17. Pattern printing – Right-angled triangle
+  18. Pattern printing – Right-aligned triangle
+  19. Pattern printing – Pyramid
+  20. Body Mass Index (BMI) calculator
+  21. Password strength checker
+  22. Collatz sequence
+  23. Factorial using recursion
+  24. Pascal’s Triangle
+  25. Number guessing game
+  26. Convert decimal to binary
+  27. Find unique elements in an array
+  28. Remove duplicates from an array
+  29. Check if two arrays are equal
+  30. Find missing number in array (1 to N)
